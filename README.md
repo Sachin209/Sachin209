@@ -6,7 +6,7 @@
 
 I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
-- 📫 How to reach me **mittalsam98@gmail.com**
+- 📫 How to reach me **sachinwinchester209@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
