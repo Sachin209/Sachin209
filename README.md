@@ -10,7 +10,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-- My website - https://myself.now.sh
+
 
 ## 🚀 Languages and Tools:
 
@@ -40,7 +40,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin209&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin209&layout=compact&bg_color=30,b721ff,21d4fd&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
