@@ -60,7 +60,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 </a>
 <a href="https://github.com/Sachin209?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<!--
 # buy-me-a-coffee
 
 Liked some of my work? Buy me a coffee (or more likely a beer)
@@ -79,4 +79,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
