@@ -10,7 +10,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-
+<br/>
 
 ## 🚀 Languages and Tools:
 
