@@ -51,7 +51,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 <br/>
 <br/>
-
+<!--
 ## Connect with me:
 
 ## ❤ Views and Followers
@@ -80,4 +80,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
+
